@@ -1,8 +1,8 @@
 package com.example.hello2;
 
+import android.R;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v7.app.ActionBarActivity;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -21,7 +21,7 @@ public class MainActivity extends ActionBarActivity {
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
 	}
-
+	//test
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
