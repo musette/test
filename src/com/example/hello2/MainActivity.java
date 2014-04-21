@@ -24,6 +24,7 @@ public class MainActivity extends ActionBarActivity {
 	}
 
 	//コメントだお
+	//テスト
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
